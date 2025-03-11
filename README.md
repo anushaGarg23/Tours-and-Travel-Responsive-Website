@@ -18,7 +18,7 @@ A modern, responsive travel and tourism website built with HTML, CSS, and JavaSc
 - **Brand Integration**: Partner brands showcase
 - **Contact Form**: User-friendly contact system
 
-- ## 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - **HTML5**: Semantic markup
 - **CSS3**: 
